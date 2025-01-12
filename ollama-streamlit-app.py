@@ -1,6 +1,3 @@
-# !pip install streamlit
-# !pip install streamlit llama-index
-# !pip install llama-index-llms-ollama
 
 import streamlit as st
 from llama_index.core.llms import ChatMessage
