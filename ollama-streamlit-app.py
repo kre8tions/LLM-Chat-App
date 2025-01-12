@@ -76,4 +76,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-git config --global user.email "kre8tions@gmail.com"
